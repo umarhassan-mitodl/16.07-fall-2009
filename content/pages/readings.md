@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information on the main reference book for the
   course and additional resources.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -34,4 +36,4 @@ Den Hartog, J. P. _Mechanics_. New York, NY: Dover, 1961. ISBN: 9780486607542.
 
 Hibbeler, Russell C. _Engineering Mechanics: Dynamics_. 9th ed. Upper Saddle River, N.J.: Prentice Hall, 2001. ISBN: 9780130200044.
 
-A complete {{% resource_link "fa9db604-f731-4de5-8fe6-d9558243fb49" "MATLAB reference" %}} is available online.
+A complete [MATLAB reference](https://www.mathworks.com/help/matlab/index.html) is available online.

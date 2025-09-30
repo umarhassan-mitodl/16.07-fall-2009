@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides information on course meeting times, objectives,
   academic expectations, assignments, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -46,7 +48,7 @@ Adhering to high standards of academic integrity is an important part of your un
 
 In this course, collaboration is allowed as long as it is identified. Plagiarism, such as copying someone else's solution or MATLAB® code, is not allowed. The write-ups must always be your own. Modifying someone else's code to make it your "own" is unacceptable. In case of doubt, consult the course instructor or the graduate TA.
 
-If you choose to collaborate with other students on the homework problems or the laboratory assignments, indicate their names and the nature of your joint work. Ensure that your collaborator does the same on his/her assignment. A useful discussion of these issues may be found at {{% resource_link "d4d3d7be-8545-45ec-8cc3-4d342123efbf" "MIT Academic Integrity" %}}.
+If you choose to collaborate with other students on the homework problems or the laboratory assignments, indicate their names and the nature of your joint work. Ensure that your collaborator does the same on his/her assignment. A useful discussion of these issues may be found at [MIT Academic Integrity](http://mit.edu/academicintegrity/).
 
 Assignments
 -----------

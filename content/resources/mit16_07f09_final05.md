@@ -4,6 +4,8 @@ description: Final exam on dynamics and Newtonian mechanics.
 file: /courses/16-07-dynamics-fall-2009/64de70c0d1fde388c09ecc3780c31f4d_MIT16_07F09_final05.pdf
 file_size: 275233
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

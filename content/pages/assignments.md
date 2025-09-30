@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains problem sets from the Fall 2007 course, and laboratory
   assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
