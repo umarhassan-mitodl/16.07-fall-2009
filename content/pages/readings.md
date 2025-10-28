@@ -34,4 +34,4 @@ Den Hartog, J. P. _Mechanics_. New York, NY: Dover, 1961. ISBN: 9780486607542.
 
 Hibbeler, Russell C. _Engineering Mechanics: Dynamics_. 9th ed. Upper Saddle River, N.J.: Prentice Hall, 2001. ISBN: 9780130200044.
 
-A complete [MATLAB reference](https://www.mathworks.com/help/matlab/index.html) is available online.
+A complete {{% resource_link "79b66735-2caf-40e4-92e1-e943202b0b35" "MATLAB reference" %}} is available online.

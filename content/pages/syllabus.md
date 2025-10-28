@@ -46,7 +46,7 @@ Adhering to high standards of academic integrity is an important part of your un
 
 In this course, collaboration is allowed as long as it is identified. Plagiarism, such as copying someone else's solution or MATLAB® code, is not allowed. The write-ups must always be your own. Modifying someone else's code to make it your "own" is unacceptable. In case of doubt, consult the course instructor or the graduate TA.
 
-If you choose to collaborate with other students on the homework problems or the laboratory assignments, indicate their names and the nature of your joint work. Ensure that your collaborator does the same on his/her assignment. A useful discussion of these issues may be found at [MIT Academic Integrity](http://mit.edu/academicintegrity/).
+If you choose to collaborate with other students on the homework problems or the laboratory assignments, indicate their names and the nature of your joint work. Ensure that your collaborator does the same on his/her assignment. A useful discussion of these issues may be found at {{% resource_link "1d1a35c8-75fe-4dcf-9fdb-bc3c4c76ddf0" "MIT Academic Integrity" %}}.
 
 Assignments
 -----------
